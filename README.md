@@ -1,13 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-I'm Artem Lajko. A passionate and driven Platform Engineer with a proven track record in designing, developing, and implementing efficient and scalable cloud infrastructures. 
+I'm Artem Lajko. A passionate and driven Platform Engineer@iits-consulting with a proven track record in designing, developing, and implementing efficient and platforms.
 
 
 ---
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently working with at Hamburg Port Authority (HPA) and I´m responsible for utilizing cutting-edge technologies like Kubernetes 🖥️ to adapt the port's services, simplifying the lives of all involved 🚢👥👍.
+- 🔭 Artem Lajko, certified CNCF Kubestronaut and Platform Engineer, specializes in GitOps and Kubernetes scalability. Author of Implementing GitOps with Kubernetes, co-founder of connectii.io, and IT freelancer writing for ITNEXT. 
+
+- As a Platform Engineering Ambassador, he drives adoption of Internal Developer Platforms, aiding companies in tech selection, best practices, and Open Source innovation.
+
 
 
 
@@ -55,8 +58,11 @@ I'm Artem Lajko. A passionate and driven Platform Engineer with a proven track r
 ---
 
 
+
 ### ✍🏻 Medium Blogs
 
-[![Artem Lajko Medium](https://github-readme-medium.vercel.app/?username=artem_lajko&limit=3)](https://medium.com/@artem_lajko)
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@artem_lajko/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@artem_lajko/0" alt="Recent Article 0">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@artem_lajko/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@artem_lajko/1" alt="Recent Article 1">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@artem_lajko/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@artem_lajko/2" alt="Recent Article 2">
 
 [➡️ more blogs...](https://medium.com/@artem_lajko)
